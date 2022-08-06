@@ -7,8 +7,9 @@ body {
 
 h2 {
   text-align: center;
-  color: white;
+  color: rgb(240, 240, 240);
   margin-top: 70px;
+  font-size: 20px;
 }
 
 ul {
